@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    sriraj	sriraj@git.training	@awesomejt(twitter)
 
 # THANKS
 
